@@ -1,0 +1,1 @@
+kubectl apply -f "https://raw.githubusercontent.com/rabbitmq/cluster-operator/main/docs/examples/hello-world/rabbitmq.yaml"
